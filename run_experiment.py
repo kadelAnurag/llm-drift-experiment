@@ -3,8 +3,7 @@ from datetime import datetime
 from src.config import POLICY_PATH, CUSTOMERS_PATH, RESULTS_DIR, NUM_RUNS
 from src.evaluator import evaluate_customer
 from src.utils import load_json, load_text, save_json
-from src.llm_client import get_llm_decision
-from src.prompt_builder import build_prompt
+
 
 def print_summary(all_results):
     print("\n" + "=" * 60)
@@ -67,13 +66,6 @@ def main() -> None:
     policy_text = load_text(POLICY_PATH)
     customers = load_json(CUSTOMERS_PATH)
 
-    customer = customers[0]
-    prompt = build_prompt(policy_text, customer)
-
-    print(prompt[:500])  # sanity check
-    print(get_llm_decision(prompt))
-
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     all_results = []
 
     for customer in customers:
@@ -85,8 +77,10 @@ def main() -> None:
             f"exact match: {result['summary']['exact_match_rate']:.2f}"
         )
 
-    output_path = RESULTS_DIR / f"experiment_{timestamp}.json"
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    output_path = RESULTS_DIR / f"experiment_runs{NUM_RUNS}_{timestamp}.json"
     save_json(output_path, all_results)
+
     print(f"\nSaved results to: {output_path}")
     print_summary(all_results)
     print_global_insights(all_results)
