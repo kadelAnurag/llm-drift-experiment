@@ -1,0 +1,36 @@
+Financial Products Eligibility Policy
+
+Overview
+This document defines eligibility criteria and decision logic for StarterCard, FlexiCard, and Personal Loan products. Applicants are evaluated based on income, savings, and risk profile.
+
+StarterCard Policy
+The StarterCard is designed for entry-level applicants with stable financial capacity.
+- Minimum monthly income: INR 20,000
+- Minimum savings: INR 50,000
+- Allowed risk bands: Low Risk, Medium Risk
+- High Risk applicants are not eligible
+- Applicants with slightly lower savings may still be considered if income is strong. However, in some cases insufficient savings may still lead to rejection depending on overall financial profile.
+
+FlexiCard Policy
+The FlexiCard is intended for applicants with higher financial capacity.
+- Minimum monthly income: INR 50,000
+- Minimum savings: INR 100,000
+- Allowed risk bands: Low Risk, Medium Risk
+- High Risk applicants are not eligible
+- Borderline cases may be reviewed if income is strong
+
+Personal Loan Policy
+Personal loans are offered to applicants with demonstrated repayment capacity.
+- Minimum monthly income: INR 40,000
+- Minimum savings: INR 50,000
+- Allowed risk bands: Low Risk, Medium Risk
+- High Risk applicants should be rejected
+- Disposable income should support repayment capacity
+
+Decision Logic
+- If all conditions are satisfied → Approve
+- If key conditions fail → Reject
+- If conditions are partially satisfied, the application should generally be rejected unless there is strong justification to proceed. Review may be used in cases where the applicant demonstrates compensating strengths such as higher income or acceptable financial stability.
+
+Supporting Signals
+Disposable income and predicted risk score may support decisions but do not override primary eligibility rules.

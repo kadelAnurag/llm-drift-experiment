@@ -1,0 +1,767 @@
+[
+  {
+    "customer_id": "C001",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Meets minimum income and savings requirements with allowed risk band."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Meets minimum income and savings requirements with allowed risk band."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Meets minimum income and savings requirements with allowed risk band."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Meets minimum income and savings requirements with allowed risk band."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Meets minimum income and savings requirements with allowed risk band."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Meets minimum income and savings requirements with allowed risk band."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Meets minimum income and savings requirements with allowed risk band."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Meets minimum income and savings requirements with allowed risk band."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Income and savings exceed minimum requirements; risk band allowed."
+      },
+      {
+        "customer_id": "C001",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Meets minimum income and savings requirements with allowed risk band."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.55,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.11075514874141872
+    }
+  },
+  {
+    "customer_id": "C002",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has high risk band which is not allowed for StarterCard and income and savings are below minimum requirements."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant is in High Risk band which is not allowed for StarterCard and income and savings are below minimum requirements."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant is in High Risk band which is not allowed for StarterCard and income and savings are below minimum requirements."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has high risk band which is not allowed for StarterCard and income and savings are below minimum requirements."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has high risk band which is not allowed for StarterCard and income and savings are below minimum requirements."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has high risk band which is not allowed for StarterCard and income and savings are below minimum requirements."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has high risk band which is not allowed for StarterCard and income and savings are below minimum thresholds."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has high risk band and income and savings below minimum required for StarterCard"
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      },
+      {
+        "customer_id": "C002",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "Applicant has income and savings below minimum and is in High Risk band, which is not allowed for StarterCard."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.2,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.16886105498534074
+    }
+  },
+  {
+    "customer_id": "C003",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but within consideration for review."
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case for consideration"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed; borderline case for review."
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case for review"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, partial satisfaction of conditions"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case for review"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, partial satisfaction of conditions"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, partial satisfaction of conditions"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case for review"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets requirement; risk band allowed"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case for review"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case for review"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case for review"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed; borderline case for review."
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case for review"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case for review"
+      },
+      {
+        "customer_id": "C003",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case"
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.05,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.07777493830530913
+    }
+  },
+  {
+    "customer_id": "C004",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum but savings slightly below minimum; allowed to consider borderline savings with strong income"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum but savings slightly below threshold; allowed to consider with strong income"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum requirement"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum; risk band allowed"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum; risk band allowed"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum requirement"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum but savings slightly below threshold; allowed to consider borderline savings with strong income"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum but savings slightly below threshold; risk band allowed"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum requirement"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum; risk band allowed"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum; risk band allowed"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum requirement"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum but savings slightly below minimum; allowed to consider borderline savings with strong income"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum but savings slightly below threshold; allowed to consider with strong income"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum requirement"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum requirement"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum requirement"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum requirement"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets minimum requirement"
+      },
+      {
+        "customer_id": "C004",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum but savings slightly below threshold; allowed to consider borderline savings with strong income."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.1,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.16344389227334616
+    }
+  },
+  {
+    "customer_id": "C005",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but close, risk band allowed"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but within consideration for review"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but within consideration for review"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum threshold"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but close, risk band allowed"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets requirement; risk band allowed"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets requirement; risk band allowed"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but within consideration for review"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets requirement; risk band allowed"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case for review"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but within consideration for review"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but within consideration for review"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but close, risk band allowed"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets requirement; risk band allowed"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but close, risk band allowed"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets requirement; risk band allowed"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum threshold"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Income meets minimum, savings slightly below minimum but risk band allowed, borderline case"
+      },
+      {
+        "customer_id": "C005",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Review",
+        "risk_band_used": "Medium Risk",
+        "reason": "Savings slightly below minimum but income meets requirement; eligible risk band"
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.2,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.15523813864808936
+    }
+  }
+]
