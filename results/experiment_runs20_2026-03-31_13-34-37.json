@@ -1,0 +1,1396 @@
+[
+  {
+    "customer_id": "DRIFT_01",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income pattern, highly consistent cashflow, and formal documentation assumed."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income, highly consistent cashflow, and formal documentation assumed."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income, highly consistent cashflow, and formal documentation assumed."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, and meets all StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income, highly consistent cashflow, and formal documentation assumed."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income pattern, highly consistent cashflow, and formal documentation assumed."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income, highly consistent cashflow, and formal documentation assumed."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income pattern, highly consistent cashflow, and formal documentation assumed."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income pattern, highly consistent cashflow, and formal payslip or bank statement documentation assumed."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income pattern, highly consistent cashflow, and formal documentation assumed."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income pattern, highly consistent cashflow, and formal documentation assumed."
+      },
+      {
+        "customer_id": "DRIFT_01",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Medium Risk",
+        "reason": "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.25,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.12954514157625055,
+      "decision_flip": false,
+      "unique_decisions": [
+        "Approve"
+      ],
+      "unique_reasons": [
+        "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, and meets all StarterCard Rule 1 criteria.",
+        "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income pattern, highly consistent cashflow, and formal payslip or bank statement documentation assumed.",
+        "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income pattern, highly consistent cashflow, and formal documentation assumed.",
+        "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income, highly consistent cashflow, and formal documentation assumed.",
+        "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria."
+      ],
+      "decision_counts": {
+        "Approve": 20
+      },
+      "reason_counts": {
+        "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income pattern, highly consistent cashflow, and formal documentation assumed.": 5,
+        "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income, highly consistent cashflow, and formal documentation assumed.": 4,
+        "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income pattern and documentation assumed as per policy, meeting all StarterCard Rule 1 criteria.": 9,
+        "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, and meets all StarterCard Rule 1 criteria.": 1,
+        "Salaried applicant with monthly income exceeding 20,000, savings exceeding 50,000, medium risk band, stable income, monthly recurring income pattern, highly consistent cashflow, and formal payslip or bank statement documentation assumed.": 1
+      }
+    }
+  },
+  {
+    "customer_id": "DRIFT_02",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match 'Salaried employees' or 'Freelancer / Self-Employed' required for StarterCard rules"
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match 'Salaried employees' required for StarterCard Rule 1; no applicable rule for Contract Worker under StarterCard."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match any StarterCard policy rule which requires 'Salaried' or 'Freelancer/Self-Employed' with specified income stability; thus no applicable rule for approval."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants"
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_02",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type 'Contract Worker' does not match 'Salaried employees' required for StarterCard Rule 1; no applicable rule for contract workers in StarterCard policy."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.75,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.0952190071576846,
+      "decision_flip": false,
+      "unique_decisions": [
+        "Reject"
+      ],
+      "unique_reasons": [
+        "Employment type 'Contract Worker' does not match 'Salaried employees' or 'Freelancer / Self-Employed' required for StarterCard rules",
+        "Employment type 'Contract Worker' does not match any StarterCard policy rule which requires 'Salaried' or 'Freelancer/Self-Employed' with specified income stability; thus no applicable rule for approval.",
+        "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants",
+        "Employment type 'Contract Worker' does not match 'Salaried employees' required for StarterCard Rule 1; no applicable rule for Contract Worker under StarterCard.",
+        "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants.",
+        "Employment type 'Contract Worker' does not match 'Salaried employees' required for StarterCard Rule 1; no applicable rule for contract workers in StarterCard policy."
+      ],
+      "decision_counts": {
+        "Reject": 20
+      },
+      "reason_counts": {
+        "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants.": 15,
+        "Employment type 'Contract Worker' does not match 'Salaried employees' or 'Freelancer / Self-Employed' required for StarterCard rules": 1,
+        "Employment type 'Contract Worker' does not match 'Salaried employees' required for StarterCard Rule 1; no applicable rule for Contract Worker under StarterCard.": 1,
+        "Employment type 'Contract Worker' does not match any StarterCard policy rule which requires 'Salaried' or 'Freelancer/Self-Employed' with specified income stability; thus no applicable rule for approval.": 1,
+        "Employment type 'Contract Worker' does not match StarterCard policy rules for salaried or freelancer/self-employed applicants": 1,
+        "Employment type 'Contract Worker' does not match 'Salaried employees' required for StarterCard Rule 1; no applicable rule for contract workers in StarterCard policy.": 1
+      }
+    }
+  },
+  {
+    "customer_id": "DRIFT_03",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet salaried criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_03",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Medium Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.55,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.11457229781199162,
+      "decision_flip": false,
+      "unique_decisions": [
+        "Reject"
+      ],
+      "unique_reasons": [
+        "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria.",
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried criteria.",
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy.",
+        "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet salaried criteria.",
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      ],
+      "decision_counts": {
+        "Reject": 20
+      },
+      "reason_counts": {
+        "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet StarterCard Rule 1 criteria.": 11,
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy.": 6,
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria.": 1,
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried criteria.": 1,
+        "Monthly income does not exceed INR 20,000 required for StarterCard salaried applicants; applicant is freelancer and does not meet salaried criteria.": 1
+      }
+    }
+  },
+  {
+    "customer_id": "DRIFT_04",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_04",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 1.0,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.0,
+      "decision_flip": false,
+      "unique_decisions": [
+        "Reject"
+      ],
+      "unique_reasons": [
+        "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy."
+      ],
+      "decision_counts": {
+        "Reject": 20
+      },
+      "reason_counts": {
+        "Monthly income does not exceed INR 20,000 as required for salaried applicants under StarterCard policy.": 20
+      }
+    }
+  },
+  {
+    "customer_id": "DRIFT_05",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, but StarterCard Rule 1 applies only to salaried employees; no applicable rule for gig workers under StarterCard."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, but StarterCard Rule 1 applies only to salaried employees; no applicable rule for gig workers under StarterCard."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not meet StarterCard policy rules requiring Salaried or Freelancer/Self-Employed status."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Applicant is a Gig Worker; StarterCard Rule 1 applies only to salaried employees and Rule 2 to freelancers/self-employed, so no applicable rule for Gig Worker; therefore, reject."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Applicant is a gig worker, but StarterCard Rule 1 applies only to salaried employees; no applicable rule for gig workers under StarterCard, so reject."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not meet StarterCard policy rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, but StarterCard requires Salaried employees or Freelancers/Self-Employed; does not match any StarterCard rule."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, but StarterCard Rule 1 applies only to salaried employees; no applicable rule for gig workers under StarterCard."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Applicant is a gig worker, but StarterCard Rule 1 applies only to salaried employees; no applicable rule for gig workers under StarterCard, so reject."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants."
+      },
+      {
+        "customer_id": "DRIFT_05",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Employment type is Gig Worker, but StarterCard Rule 1 applies only to salaried employees; no applicable rule for gig workers under StarterCard."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.2,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.19101969609009697,
+      "decision_flip": false,
+      "unique_decisions": [
+        "Reject"
+      ],
+      "unique_reasons": [
+        "Applicant is a Gig Worker; StarterCard Rule 1 applies only to salaried employees and Rule 2 to freelancers/self-employed, so no applicable rule for Gig Worker; therefore, reject.",
+        "Employment type is Gig Worker, which does not meet StarterCard policy rules for salaried or freelancer/self-employed applicants.",
+        "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants.",
+        "Employment type is Gig Worker, but StarterCard requires Salaried employees or Freelancers/Self-Employed; does not match any StarterCard rule.",
+        "Applicant is a gig worker, but StarterCard Rule 1 applies only to salaried employees; no applicable rule for gig workers under StarterCard, so reject.",
+        "Employment type is Gig Worker, which does not meet StarterCard policy rules requiring Salaried or Freelancer/Self-Employed status.",
+        "Employment type is Gig Worker, but StarterCard Rule 1 applies only to salaried employees; no applicable rule for gig workers under StarterCard."
+      ],
+      "decision_counts": {
+        "Reject": 20
+      },
+      "reason_counts": {
+        "Employment type is Gig Worker, but StarterCard Rule 1 applies only to salaried employees; no applicable rule for gig workers under StarterCard.": 4,
+        "Employment type is Gig Worker, which does not match StarterCard rules for salaried or freelancer/self-employed applicants.": 10,
+        "Employment type is Gig Worker, which does not meet StarterCard policy rules requiring Salaried or Freelancer/Self-Employed status.": 1,
+        "Applicant is a Gig Worker; StarterCard Rule 1 applies only to salaried employees and Rule 2 to freelancers/self-employed, so no applicable rule for Gig Worker; therefore, reject.": 1,
+        "Applicant is a gig worker, but StarterCard Rule 1 applies only to salaried employees; no applicable rule for gig workers under StarterCard, so reject.": 2,
+        "Employment type is Gig Worker, which does not meet StarterCard policy rules for salaried or freelancer/self-employed applicants.": 1,
+        "Employment type is Gig Worker, but StarterCard requires Salaried employees or Freelancers/Self-Employed; does not match any StarterCard rule.": 1
+      }
+    }
+  },
+  {
+    "customer_id": "DRIFT_06",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under Rule 1."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under Rule 1."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under Rule 1."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under Rule 1."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      },
+      {
+        "customer_id": "DRIFT_06",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "High Risk",
+        "reason": "High Risk applicants are not eligible for StarterCard under the policy."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.8,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.014232765011119333,
+      "decision_flip": false,
+      "unique_decisions": [
+        "Reject"
+      ],
+      "unique_reasons": [
+        "High Risk applicants are not eligible for StarterCard under the policy.",
+        "High Risk applicants are not eligible for StarterCard under Rule 1."
+      ],
+      "decision_counts": {
+        "Reject": 20
+      },
+      "reason_counts": {
+        "High Risk applicants are not eligible for StarterCard under the policy.": 16,
+        "High Risk applicants are not eligible for StarterCard under Rule 1.": 4
+      }
+    }
+  },
+  {
+    "customer_id": "DRIFT_07",
+    "product": "PersonalLoan",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried employment, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant as per policy for Personal Loan."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 40,000 threshold required for Personal Loan"
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried employment, meeting all Personal Loan policy criteria."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried employment, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried applicant, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 40,000 threshold required for Personal Loan eligibility."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 40,000 threshold required for Personal Loan eligibility."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern assumed Monthly Recurring Income, documentation accepted, income stability category Stable Income, all conditions met for Personal Loan approval."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried applicant, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried employment, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried employment, meeting all Personal Loan policy criteria."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant, meeting all Personal Loan policy conditions."
+      },
+      {
+        "customer_id": "DRIFT_07",
+        "product_evaluated": "PersonalLoan",
+        "eligibility_decision": "Approve",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried employment, meeting all Personal Loan policy conditions."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.35,
+      "decision_consistency_rate": 0.85,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.2036948284949459,
+      "decision_flip": true,
+      "unique_decisions": [
+        "Reject",
+        "Approve"
+      ],
+      "unique_reasons": [
+        "Monthly income does not exceed INR 40,000 threshold required for Personal Loan",
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern assumed Monthly Recurring Income, documentation accepted, income stability category Stable Income, all conditions met for Personal Loan approval.",
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant as per policy for Personal Loan.",
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried employment, meeting all Personal Loan policy conditions.",
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried employment, meeting all Personal Loan policy criteria.",
+        "Monthly income does not exceed INR 40,000 threshold required for Personal Loan eligibility.",
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried applicant, meeting all Personal Loan policy conditions.",
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant, meeting all Personal Loan policy conditions."
+      ],
+      "decision_counts": {
+        "Approve": 17,
+        "Reject": 3
+      },
+      "reason_counts": {
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant, meeting all Personal Loan policy conditions.": 7,
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried employment, meeting all Personal Loan policy conditions.": 4,
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern and documentation assumed compliant as per policy for Personal Loan.": 1,
+        "Monthly income does not exceed INR 40,000 threshold required for Personal Loan": 1,
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried employment, meeting all Personal Loan policy criteria.": 2,
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, income pattern and documentation assumed acceptable for salaried applicant, meeting all Personal Loan policy conditions.": 2,
+        "Monthly income does not exceed INR 40,000 threshold required for Personal Loan eligibility.": 2,
+        "Monthly income exceeds 40,000, savings exceed 50,000, risk band is Low Risk, employment type is Salaried, income pattern assumed Monthly Recurring Income, documentation accepted, income stability category Stable Income, all conditions met for Personal Loan approval.": 1
+      }
+    }
+  },
+  {
+    "customer_id": "DRIFT_08",
+    "product": "StarterCard",
+    "runs": 20,
+    "outputs": [
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried rule conditions."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer, so Rule 2 applies but product is StarterCard which requires salaried applicant criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried rule conditions."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer, so Rule 2 applies but product is StarterCard which requires salaried applicant criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer, so Rule 2 applies but product is StarterCard which requires salaried applicant conditions."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      },
+      {
+        "customer_id": "DRIFT_08",
+        "product_evaluated": "StarterCard",
+        "eligibility_decision": "Reject",
+        "risk_band_used": "Low Risk",
+        "reason": "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy."
+      }
+    ],
+    "summary": {
+      "exact_match_rate": 0.25,
+      "decision_consistency_rate": 1.0,
+      "risk_band_consistency_rate": 1.0,
+      "average_output_drift": 0.13216041780415802,
+      "decision_flip": false,
+      "unique_decisions": [
+        "Reject"
+      ],
+      "unique_reasons": [
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer, so Rule 2 applies but product is StarterCard which requires salaried applicant conditions.",
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried criteria.",
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried rule conditions.",
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer, so Rule 2 applies but product is StarterCard which requires salaried applicant criteria.",
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy.",
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria."
+      ],
+      "decision_counts": {
+        "Reject": 20
+      },
+      "reason_counts": {
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy.": 5,
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried rule conditions.": 2,
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer, so Rule 2 applies but product is StarterCard which requires salaried applicant criteria.": 2,
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet Rule 1 criteria.": 8,
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer and does not meet salaried criteria.": 2,
+        "Monthly income does not exceed INR 20,000 required for salaried applicants under StarterCard policy; applicant is freelancer, so Rule 2 applies but product is StarterCard which requires salaried applicant conditions.": 1
+      }
+    }
+  }
+]

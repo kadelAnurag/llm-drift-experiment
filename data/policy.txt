@@ -1,36 +1,76 @@
 Financial Products Eligibility Policy
 
 Overview
-This document defines eligibility criteria and decision logic for StarterCard, FlexiCard, and Personal Loan products. Applicants are evaluated based on income, savings, and risk profile.
+This document defines eligibility criteria and decision logic for StarterCard, FlexiCard, and Personal Loan products. Applicants are evaluated based on income, savings, risk profile, employment type, income pattern, cashflow consistency, and documentation type. All thresholds are exclusive — an applicant must exceed (not merely meet) the stated minimum values to satisfy a condition.
+
+---
 
 StarterCard Policy
-The StarterCard is designed for entry-level applicants with stable financial capacity.
-- Minimum monthly income: INR 20,000
-- Minimum savings: INR 50,000
+
+Rule 1 — Standard Salaried Applicants
+Applies to: Salaried employees with stable, formally documented monthly income.
+- Monthly income must exceed INR 20,000
+- Total savings must exceed INR 50,000
 - Allowed risk bands: Low Risk, Medium Risk
 - High Risk applicants are not eligible
-- Applicants with slightly lower savings may still be considered if income is strong. However, in some cases insufficient savings may still lead to rejection depending on overall financial profile.
+- Required income pattern: Monthly Recurring Income
+- Required cashflow consistency: Highly Consistent Cashflow
+- Accepted documentation: Formal Payslip, Bank Statement
+- Income stability category: Stable Income
+- Decision: Approve
+
+Rule 2 — Alternative Income (Freelancer / Self-Employed)
+Applies to: Freelancers and self-employed applicants with moderately stable but demonstrable income.
+- Monthly income must exceed INR 15,000
+- Total savings must exceed INR 50,000
+- Allowed risk bands: Low Risk, Medium Risk
+- High Risk applicants are not eligible
+- Required income pattern: Monthly Recurring Income or Irregular But Consistent Income
+- Required cashflow consistency: Highly Consistent Cashflow or Moderately Consistent Cashflow
+- Accepted documentation: Bank Statement, Alternative Documentation
+- Income stability category: Moderately Stable Income
+- Decision: Approve
+
+---
 
 FlexiCard Policy
-The FlexiCard is intended for applicants with higher financial capacity.
-- Minimum monthly income: INR 50,000
-- Minimum savings: INR 100,000
+
+Rule — Standard (Salaried / Self-Employed)
+Applies to: Salaried and self-employed applicants with higher financial capacity.
+- Monthly income must exceed INR 50,000
+- Total savings must exceed INR 100,000
 - Allowed risk bands: Low Risk, Medium Risk
 - High Risk applicants are not eligible
-- Borderline cases may be reviewed if income is strong
+- Required income pattern: Monthly Recurring Income or Irregular But Consistent Income
+- Required cashflow consistency: Highly Consistent Cashflow or Moderately Consistent Cashflow
+- Accepted documentation: Bank Statement, Invoice-Based Documentation
+- Income stability category: Stable Income
+- Decision: Approve
+
+---
 
 Personal Loan Policy
-Personal loans are offered to applicants with demonstrated repayment capacity.
-- Minimum monthly income: INR 40,000
-- Minimum savings: INR 50,000
+
+Rule — Salaried and Gig Workers
+Applies to: Salaried employees and gig workers with demonstrated repayment capacity.
+- Monthly income must exceed INR 40,000
+- Total savings must exceed INR 50,000
 - Allowed risk bands: Low Risk, Medium Risk
-- High Risk applicants should be rejected
-- Disposable income should support repayment capacity
+- High Risk applicants are not eligible
+- Required income pattern: Monthly Recurring Income or Irregular But Consistent Income
+- Accepted documentation: Invoice-Based Documentation, Alternative Documentation
+- Income stability category: Stable Income or Moderately Stable Income
+- Decision: Approve
+
+---
 
 Decision Logic
-- If all conditions are satisfied → Approve
-- If key conditions fail → Reject
-- If conditions are partially satisfied, the application should generally be rejected unless there is strong justification to proceed. Review may be used in cases where the applicant demonstrates compensating strengths such as higher income or acceptable financial stability.
+- If all conditions for an applicable rule are satisfied → Approve
+- If any key condition (income, savings, or risk band) fails → Reject
+- If income and risk band conditions are met but savings are borderline (above threshold but marginal), the application may be flagged for Review
+- Review decisions require human assessment before a final outcome is issued
+
+---
 
 Supporting Signals
-Disposable income and predicted risk score may support decisions but do not override primary eligibility rules.
+Disposable income and predicted risk score are recorded for each assessment and may support human review, but do not override the primary eligibility rule conditions.

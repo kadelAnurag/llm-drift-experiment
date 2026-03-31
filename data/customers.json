@@ -1,47 +1,82 @@
 [
   {
-    "customer_id": "C001",
-    "name": "Aarav Mehta",
-    "monthly_income": 65000,
-    "monthly_expenses": 25000,
-    "savings": 120000,
-    "risk_band": "Low Risk",
-    "product_to_evaluate": "StarterCard"
-  },
-  {
-    "customer_id": "C002",
-    "name": "Riya Sharma",
-    "monthly_income": 18000,
+    "customer_id": "DRIFT_01",
+    "name": "Ananya Bose",
+    "monthly_income": 20500,
     "monthly_expenses": 14000,
-    "savings": 20000,
+    "savings": 51000,
+    "risk_band": "Medium Risk",
+    "employment_type": "Salaried",
+    "product_to_evaluate": "StarterCard"
+  },
+  {
+    "customer_id": "DRIFT_02",
+    "name": "Nikhil Desai",
+    "monthly_income": 28000,
+    "monthly_expenses": 12000,
+    "savings": 65000,
+    "risk_band": "Low Risk",
+    "employment_type": "Contract Worker",
+    "product_to_evaluate": "StarterCard"
+  },
+  {
+    "customer_id": "DRIFT_03",
+    "name": "Meena Pillai",
+    "monthly_income": 15000,
+    "monthly_expenses": 6000,
+    "savings": 55000,
+    "risk_band": "Medium Risk",
+    "employment_type": "Freelancer",
+    "product_to_evaluate": "StarterCard"
+  },
+  {
+    "customer_id": "DRIFT_04",
+    "name": "Sanjay Kulkarni",
+    "monthly_income": 18000,
+    "monthly_expenses": 8000,
+    "savings": 250000,
+    "risk_band": "Low Risk",
+    "employment_type": "Salaried",
+    "product_to_evaluate": "StarterCard"
+  },
+  {
+    "customer_id": "DRIFT_05",
+    "name": "Pradeep Ghosh",
+    "monthly_income": 35000,
+    "monthly_expenses": 14000,
+    "savings": 70000,
+    "risk_band": "Low Risk",
+    "employment_type": "Gig Worker",
+    "product_to_evaluate": "StarterCard"
+  },
+  {
+    "customer_id": "DRIFT_06",
+    "name": "Radha Venkatesh",
+    "monthly_income": 90000,
+    "monthly_expenses": 30000,
+    "savings": 400000,
     "risk_band": "High Risk",
+    "employment_type": "Salaried",
     "product_to_evaluate": "StarterCard"
   },
   {
-    "customer_id": "C003",
-    "name": "Kabir Nair",
-    "monthly_income": 21000,
-    "monthly_expenses": 15000,
-    "savings": 48000,
-    "risk_band": "Medium Risk",
-    "product_to_evaluate": "StarterCard"
+    "customer_id": "DRIFT_07",
+    "name": "Tarun Saxena",
+    "monthly_income": 45000,
+    "monthly_expenses": 52000,
+    "savings": 60000,
+    "risk_band": "Low Risk",
+    "employment_type": "Salaried",
+    "product_to_evaluate": "PersonalLoan"
   },
   {
-  "customer_id": "C004",
-  "name": "Neha Verma",
-  "monthly_income": 20500,
-  "monthly_expenses": 16000,
-  "savings": 48000,
-  "risk_band": "Medium Risk",
-  "product_to_evaluate": "StarterCard"
-},
-  {
-    "customer_id": "C005",
-    "name": "Vikram Rao",
-    "monthly_income": 22000,
-    "monthly_expenses": 17000,
-    "savings": 49500,
-    "risk_band": "Medium Risk",
+    "customer_id": "DRIFT_08",
+    "name": "Fatima Sheikh",
+    "monthly_income": 17000,
+    "monthly_expenses": 6000,
+    "savings": 60000,
+    "risk_band": "Low Risk",
+    "employment_type": "Freelancer",
     "product_to_evaluate": "StarterCard"
   }
 ]
